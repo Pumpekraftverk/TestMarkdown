@@ -1,2 +1,0 @@
-# test
-Nå skriver jeg
