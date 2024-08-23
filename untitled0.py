@@ -6,3 +6,5 @@ Created on Fri Aug 23 15:47:29 2024
 """
 
 kodiung
+
+# Henrik koder så mye
